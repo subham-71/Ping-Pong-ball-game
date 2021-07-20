@@ -1,3 +1,3 @@
 # Ping-Pong-ball-game
-Using object oriented programming in python created a ping pong ball game. 
+Created a ping pong ball game using object oriented programming in python . 
 Created GUI using Tkinter module.
